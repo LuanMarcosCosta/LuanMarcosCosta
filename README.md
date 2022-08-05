@@ -1,4 +1,4 @@
-### Olá, meu nome é Luãn (sim, com "~" em cima do "a" 😂🤷‍♂️), muito prazer!
+### Olá, meu nome é Luãn Costa (sim, com "~" em cima do "a" 😂🤷‍♂️), muito prazer!
 
 - 🔭 Hoje trabalho com Testes Manuais 
 - 🤖 Automação de testes é meu objetivo principal
