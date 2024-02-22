@@ -1,7 +1,7 @@
-### Olá, meu nome é Luãn Costa (sim, com "~" em cima do "a" 😂🤷‍♂️), muito prazer!
+### Olá, meu nome é Luãn Lã
 
-- 🔭 Hoje trabalho com Testes Manuais 
-- 🤖 Automação de testes é meu objetivo principal
+- 🔭 Hoje trabalho com Testes Manuais e Automatizados
+- 🤖 Busco uma especialização em testes automatizados
 - 🎙️ Meu hobbie atual é gravar podcasts e conversar com pessoas de diversas profissões
 
 ##
