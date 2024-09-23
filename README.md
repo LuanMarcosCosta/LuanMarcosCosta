@@ -20,6 +20,14 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   
 </p>
+
+## Projetos em Destaque
+
+- **[Projeto 1: Automação de Testes com Cypress]([link do repositório](https://github.com/LuanMarcosCosta/connect_db))**  
+  Descrição: Automação de testes que realiza uma consulta ao banco de dados Oracle.
+
+- **[Projeto 2: API Testing Cypress]([link do repositório](https://github.com/LuanMarcosCosta/cypress-intermediarios))**  
+  Descrição: Testes automatizados de APIs REST usando cypress e Docker.
  
  ##
  
