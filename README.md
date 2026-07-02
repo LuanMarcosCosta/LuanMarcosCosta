@@ -56,21 +56,9 @@ Para manter a organização e facilitar a leitura, aqui estão as tecnologias qu
 
 ---
 
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/LuanMarcosCosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanMarcosCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMarcosCosta&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
 ## 📬 Vamos nos conectar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luancosta23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
   <a href="mailto:luanb07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> 
-  <a href="https://www.instagram.com/luan_costa_21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
